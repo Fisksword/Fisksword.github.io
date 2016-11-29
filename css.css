@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #383838;
+    height: 10vh;
+    color: white;
+    font-family: arial;
+    border-bottom: 3px solid green;
+
+    top: -0px;
+}
+
+header img {
+    width: 10%;
+    margin-top: 4px; 
+}
+
+.menu {
+    width: 100%;
+    height: 60px;
+    display: inline;
+    background-color: yellow;
+}
+
+.menu img {
+    width: 2%;
+}
