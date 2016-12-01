@@ -5,7 +5,9 @@ body {
 
 header {
     text-align: center;
-    background-color: #383838;
+    background: #121b33;
+    background: linear-gradient(to right, #121b33, #287728, #121b33)
+    background-color: ;
     height: 10vh;
     color: white;
     font-family: arial;
